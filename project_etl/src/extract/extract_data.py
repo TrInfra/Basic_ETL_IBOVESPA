@@ -1,7 +1,5 @@
 import yfinance as yf
 from datetime import datetime
-import pandas as pd
-from IPython.display import display
 import os 
 
 path = os.path.dirname(os.path.abspath(__file__))
